@@ -1,0 +1,10 @@
+# Python sanal ortamı (Bunu gönderme)
+.venv/
+venv/
+
+# Python önbellek dosyaları (Gereksiz)
+__pycache__/
+*.pyc
+
+# Mac/Windows sistem dosyaları
+.DS_Store
